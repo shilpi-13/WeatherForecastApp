@@ -25,8 +25,5 @@ This web-based application provides real-time weather information for any city u
 - AngularJS: https://angularjs.org/
 - OpenWeather API: https://openweathermap.org/api
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-For questions or feedback, please contact me at your-email@example.com.
+For questions or feedback, please contact me at shilpi13r07@gmail.com.
